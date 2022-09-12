@@ -6,6 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aaryaveer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaryaveer" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/zksobm7jqy5l9o5uyqipo782o?si=f72751f1cc01428b" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/File:Spotify_App_Logo.svg" alt="aaryaveer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
